@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Enkelt chat app</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="onOff">ON/OFF</string>
+    <string name="buttonDiscover">DISCOVER</string>
+    <string name="messageView">Message</string>
+    <string name="editText">Type</string>
+
+</resources>
